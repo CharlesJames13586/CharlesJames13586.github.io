@@ -19,3 +19,5 @@ Education
 
 Publication
 ---
+* **Improving Single-Step Adversarial Training by Local Smoothing.** Shaopeng Wang; Yanhong Huang; Jianqi Shi; Yang Yang; Xin Guo [IJCNN 2023]
+* **A Tool for Transforming SysML State Machine into Uppaal Automatically.** Shaopeng Wang; Jianqi Shi; Yanhong Huang; Yang Yang [SMC 2023]

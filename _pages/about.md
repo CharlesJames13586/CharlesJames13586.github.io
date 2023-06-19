@@ -13,7 +13,7 @@ But my next plan is to pass the IELTS to apply for a PhD. Good luck to myself.
 
 Education
 ---
-* **East China Normal University:** Master in Software Engineer, Sep. 2020 - Jun. 2023
+* **East China Normal University:** Master in Software Engineering, Sep. 2020 - Jun. 2023
 * **China University of Mining and Technology:** Bachelor in Computer Science and Technology, Sep. 2016 - Jun. 2020
 
 Publication

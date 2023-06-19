@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Currently, I have received my master's degree and am ready to work in industry. 
+But my next plan is to pass the IELTS to apply for a PhD. Good luck to myself.
 
-
-About
----
 
 Education
 ---
